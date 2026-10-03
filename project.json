@@ -1,0 +1,6 @@
+{
+  "name": "mood-logger",
+  "title": "Mood Logger",
+  "description": "A simple web app to track and visualize emotions",
+  "technology": "React"
+}
